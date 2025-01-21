@@ -65,24 +65,5 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Projects </h2>
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; color: #c9d1d9; font-weight: 700; font-size: 15px; text-align: left;">
-    <div style="border: 1px solid #21262d; padding: 12px; border-radius: 8px;">
-        <strong>🏆 K-water 대국민 물 빅데이터 공모전</strong><br>
-        <span>(2024.05.22 ~ 2024.07.18) - 장려상 수상 🥉</span>
-    </div>
-    <div style="border: 1px solid #21262d; padding: 12px; border-radius: 8px;">
-        <strong>📊 세종특별자치시 빅데이터 공모전</strong><br>
-        <span>(2024.08.09 ~ 2024.09.30) - 본선 진출</span>
-    </div>
-    <div style="border: 1px solid #21262d; padding: 12px; border-radius: 8px;">
-        <strong>🤖 AI 데이터 활용 빅콘테스트</strong><br>
-        <span>(2024.09 ~ 2024.12) - 본선 진출</span>
-    </div>
-    <div style="border: 1px solid #21262d; padding: 12px; border-radius: 8px;">
-        <strong>⚙️ 소프트웨어 산업 협회 경진대회</strong><br>
-        <span>(2024.12.13)</span>
-    </div>
-</div>
 
     
