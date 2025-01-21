@@ -10,13 +10,14 @@
     </div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🪪 Certificates </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
-        <li>✔ 의공기사(2021.06)</li>
-        <li>✔ 데이터분석 준전문가(ADsP) (2024.09)</li>
-        <li>✔ SQL 개발자(SQLD) (2024.12)</li>
-        <li>✔ 빅데이터 분석 기사 (2024.12)</li>
-        <li>✔ 정보처리기사 필기 합격 </li>
-        <li>✔ 유통관리사 2급 (2023.09) </li>
-        </div>
+        <ul style="list-style-type: none; padding: 0; margin: 0;">
+            <li>✔ 의공기사(2021.06)</li>
+            <li>✔ 데이터분석 준전문가(ADsP) (2024.09)</li>
+            <li>✔ SQL 개발자(SQLD) (2024.12)</li>
+            <li>✔ 빅데이터 분석 기사 (2024.12)</li>
+            <li>✔ 정보처리기사 필기 합격 </li>
+            <li>✔ 유통관리사 2급 (2023.09) </li>
+        </ul></div>
     </div>
     </div>
     <div style="text-align: left;">
