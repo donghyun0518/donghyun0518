@@ -5,8 +5,13 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋🏻 자기소개 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하세요! 데이터를 활용해 의료 분야에서 의미 있는 변화를 이끌어 내고, 더 나은 세상을 만드는 데 기여하는 데이터 분석가 & 사이언티스트를 꿈꾸 유동현입니다!! 작은 목표부터 차근차근 달성하며, 데이터를 통해 의미 있는 변화를 만들기위해 노력하고있습니다! </li> </div> 
     </div>
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📚 Activity </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하세요! 자기소개를 작성할 부분입니다.</li> </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📚 Education </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
+        <ul style="list-style-type: none; padding: 0; margin: 0;">
+            <li>✔ 인하공업전문대학 - 전기정보학과 (2017.03~2019.02)</li>
+            <li>✔ 경희대학교 - 생체의공학과 (2020.03 ~ 2024.08)</li>
+            <li>✔ 프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정 (2024-05-09 ~ 2024-11-18)</li>
+        </ul>
     </div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🪪 Certificates </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
@@ -17,6 +22,15 @@
             <li>✔ 빅데이터 분석 기사 (2024.12)</li>
             <li>✔ 정보처리기사 필기 합격 </li>
             <li>✔ 유통관리사 2급 (2023.09) </li>
+        </ul>
+    </div>
+        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📑 Activity </h2>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
+        <ul style="list-style-type: none; padding: 0; margin: 0;">
+            <li>✔ K-water 2024 대국민 물 빅데이터 공모전 (2024.05.22 ~ 2024.07.18) - 장려상 수상🥉</li>
+            <li>✔ 제 5회 세종특별자치시 빅데이터 분석 아이디어 공모전 (2024.08.09 ~ 2024.09.30) - 본선 진출</li>
+            <li>✔ 2024 AI.데이터 분석활용 빅콘테스트(AI 데이터 경진대회) (2024.09 ~ 2024.12) - 본선 진출</li>
+            <li>✔ 한국 소프트웨어 산업 협회 경진대회 (2024.12.13)</li>
         </ul>
     </div>
     <div style="text-align: left;">
