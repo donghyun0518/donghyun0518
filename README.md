@@ -66,9 +66,11 @@
     <div style="text-align: left;">  </div> 
     </div>
 
-## 💻 Projects
---------
-- ☑️ 위/대장 내시경 실시간 병변 탐지 모델 개발
-- ☑️ 세종시 공공 전기자전거 도입을 위한 거치대 최적 입지 선정
+## 📘 Projects
+<div style="text-align: left; font-size: 14px; color: #c9d1d9; font-weight: 500;">
+    ✔ 위/대장 내시경 실시간 병변 탐지 모델 개발<br>
+    ✔ 세종시 공공 전기자전거 도입을 위한 거치대 최적 입지 선정
+</div>
+
 
 
