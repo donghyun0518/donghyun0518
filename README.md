@@ -11,26 +11,23 @@
     <div style="margin-bottom: 8px;">✔ 경희대학교 - 생체의공학과 (2020.03 ~ 2024.08)</div>
     <div style="margin-bottom: 8px;">✔ 프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정 (2024-05-09 ~ 2024-11-18)</div>
 </div>
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🪪 Certificates </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
-        <ul style="list-style-type: none; padding: 0; margin: 0;">
-            <li>✔ 의공기사(2021.06)</li>
-            <li>✔ 데이터분석 준전문가(ADsP) (2024.09)</li>
-            <li>✔ SQL 개발자(SQLD) (2024.12)</li>
-            <li>✔ 빅데이터 분석 기사 (2024.12)</li>
-            <li>✔ 정보처리기사 필기 합격 </li>
-            <li>✔ 유통관리사 2급 (2023.09) </li>
-        </ul>
-    </div>
-        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📑 Activity </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
-        <ul style="list-style-type: none; padding: 0; margin: 0;">
-            <li>✔ K-water 2024 대국민 물 빅데이터 공모전 (2024.05.22 ~ 2024.07.18) - 장려상 수상🥉</li>
-            <li>✔ 제 5회 세종특별자치시 빅데이터 분석 아이디어 공모전 (2024.08.09 ~ 2024.09.30) - 본선 진출</li>
-            <li>✔ 2024 AI.데이터 분석활용 빅콘테스트(AI 데이터 경진대회) (2024.09 ~ 2024.12) - 본선 진출</li>
-            <li>✔ 한국 소프트웨어 산업 협회 경진대회 (2024.12.13)</li>
-        </ul>
-    </div>
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🪪 Certificates </h2>
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
+    <div style="margin-bottom: 8px;">✔ 의공기사 (2021.06)</div>
+    <div style="margin-bottom: 8px;">✔ 데이터분석 준전문가(ADsP) (2024.09)</div>
+    <div style="margin-bottom: 8px;">✔ SQL 개발자(SQLD) (2024.12)</div>
+    <div style="margin-bottom: 8px;">✔ 빅데이터 분석 기사 (2024.12)</div>
+    <div style="margin-bottom: 8px;">✔ 정보처리기사 필기 합격</div>
+    <div style="margin-bottom: 8px;">✔ 유통관리사 2급 (2023.09)</div>
+</div>
+
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📑 Activity </h2>
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
+    <div style="margin-bottom: 8px;">✔ K-water 2024 대국민 물 빅데이터 공모전 (2024.05.22 ~ 2024.07.18) - 장려상 수상🥉</div>
+    <div style="margin-bottom: 8px;">✔ 제 5회 세종특별자치시 빅데이터 분석 아이디어 공모전 (2024.08.09 ~ 2024.09.30) - 본선 진출</div>
+    <div style="margin-bottom: 8px;">✔ 2024 AI.데이터 분석활용 빅콘테스트(AI 데이터 경진대회) (2024.09 ~ 2024.12) - 본선 진출</div>
+    <div style="margin-bottom: 8px;">✔ 한국 소프트웨어 산업 협회 경진대회 (2024.12.13)</div>
+</div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
