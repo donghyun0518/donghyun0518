@@ -5,10 +5,10 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 자기소개 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하세요! 자기소개를 작성할 부분입니다.</li> </div> 
     </div>
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Activity </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📚 Activity </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하세요! 자기소개를 작성할 부분입니다.</li> </div> 
     </div>
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Certificate </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🪪 Certificates </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하세요! 자기소개를 작성할 부분입니다.</li> </div> 
     </div>
     <div style="text-align: left;">
