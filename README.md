@@ -9,7 +9,17 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하세요! 자기소개를 작성할 부분입니다.</li> </div> 
     </div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🪪 Certificates </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하세요! 자기소개를 작성할 부분입니다.</li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> sssss</li> </div> 
+    </div>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🪪 Certificates </h2>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
+    <ul style="list-style-type: none; padding: 0; margin: 0;">
+        <li>✔ AWS Certified Solutions Architect – Associate (2023)</li>
+        <li>✔ Microsoft Certified: Azure Fundamentals (2022)</li>
+        <li>✔ Google Data Analytics Certificate (2021)</li>
+        <li>✔ PMP: Project Management Professional (2020)</li>
+        </ul></div>
+    </div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
