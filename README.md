@@ -6,12 +6,10 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하세요! 데이터를 활용해 의료 분야에서 의미 있는 변화를 이끌어 내고, 더 나은 세상을 만드는 데 기여하는 데이터 분석가 & 사이언티스트를 꿈꾸는 유동현입니다!! 작은 목표부터 차근차근 달성하며, 데이터를 통해 의미 있는 변화를 만들기 위해 노력하고 있습니다! </li> </div> 
     </div>
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📚 Education </h2>  
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
-    <ul style="list-style: none !important; padding: 0; margin: 0;">
-        <li style="margin-bottom: 8px;">✔ 인하공업전문대학 - 전기정보학과 (2017.03~2019.02)</li>
-        ✔ 경희대학교 - 생체의공학과 (2020.03 ~ 2024.08)
-        ✔ 프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정 (2024-05-09 ~ 2024-11-18)
-    </ul>
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
+    <div style="margin-bottom: 8px;">✔ 인하공업전문대학 - 전기정보학과 (2017.03~2019.02)</div>
+    <div style="margin-bottom: 8px;">✔ 경희대학교 - 생체의공학과 (2020.03 ~ 2024.08)</div>
+    <div style="margin-bottom: 8px;">✔ 프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정 (2024-05-09 ~ 2024-11-18)</div>
 </div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🪪 Certificates </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
