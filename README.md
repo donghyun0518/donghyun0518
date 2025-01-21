@@ -52,6 +52,7 @@
           <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
           <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+          <img src="https://img.shields.io/badge/Tableau-3776AB?style=for-the-badge&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
