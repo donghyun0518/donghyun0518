@@ -17,8 +17,7 @@
             <li>✔ 빅데이터 분석 기사 (2024.12)</li>
             <li>✔ 정보처리기사 필기 합격 </li>
             <li>✔ 유통관리사 2급 (2023.09) </li>
-        </ul></div>
-    </div>
+        </ul>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
