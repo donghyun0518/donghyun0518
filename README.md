@@ -68,8 +68,9 @@
 
 ## 📘 Projects
 <div style="text-align: left; font-size: 14px; color: #c9d1d9; font-weight: 500;">
-    <a href="https://your-link-here.com" target="_blank" style="text-decoration: none; color: #c9d1d9;">
+    <a href="https://github.com/donghyun0518/final-project-endoscope/blob/main/README.md" target="_blank" style="text-decoration: none; color: #c9d1d9;">
         ☑️ 위/대장 내시경 실시간 병변 탐지 모델 개발
+    </a><br>
     ☑️ 세종시 공공 전기자전거 도입을 위한 거치대 최적 입지 선정<br>
     ☑️ SPI지수를 활용한 가뭄 예측 모델 개발<br>
     ☑️ 빈집과 전통시장을 활용한 지역 활성화 방안 제시<br>
