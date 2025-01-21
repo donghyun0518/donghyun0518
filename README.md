@@ -9,7 +9,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하세요! 자기소개를 작성할 부분입니다.</li> </div> 
     </div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🪪 Certificates </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
+<!--     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> -->
     <ul style="list-style-type: none; padding: 0; margin: 0;">
         <li>✔ 의공기사(2021.06)</li>
         <li>✔ 데이터분석 준전문가(ADsP) (2024.09)</li>
