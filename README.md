@@ -9,7 +9,7 @@
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
     <ul style="list-style: none !important; padding: 0; margin: 0;">
         ✔ 인하공업전문대학 - 전기정보학과 (2017.03~2019.02)
-        <li style="margin-bottom: 8px;">✔ 경희대학교 - 생체의공학과 (2020.03 ~ 2024.08)</li>
+        ✔ 경희대학교 - 생체의공학과 (2020.03 ~ 2024.08)
         <li style="margin-bottom: 8px;">✔ 프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정 (2024-05-09 ~ 2024-11-18)</li>
     </ul>
 </div>
