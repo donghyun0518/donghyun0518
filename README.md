@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=180&text=Hello!%20I'm%20DongHyun!&animation=fadeIn&fontColor=00ffe1&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=180&text=Hello!%20Welcom%20to%20my%20Github!&animation=fadeIn&fontColor=00ffe1&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 자기소개 </h2>  
