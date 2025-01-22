@@ -27,9 +27,6 @@
     <div style="margin-bottom: 8px;">✔ 제 5회 세종특별자치시 빅데이터 분석 아이디어 공모전 (2024.08.09 ~ 2024.09.30) - 본선 진출</div>
     <div style="margin-bottom: 8px;">✔ 2024 AI.데이터 분석활용 빅콘테스트(AI 데이터 경진대회) (2024.09 ~ 2024.12) - 본선 진출</div>
     <div style="margin-bottom: 8px;">✔ 한국 소프트웨어 산업 협회 경진대회 (2024.12.13)</div>
-    <div style="margin-bottom: 8px;">✔ DACON 선물 배송 경로 최적화 경진대회: 산타와 루돌프의 워라벨 사수작전 (2024.12.03 ~ 2025.01.31)</div>
-    <div style="margin-bottom: 8px;">✔ DACON 난독화된 한글 리뷰 복원 AI 경진대회 (2025.01.06 ~ 2025.02.28)</div>
-    <div style="margin-bottom: 8px;">✔ DACON 부동산 허위매물 분류 해커톤: 가짜를 색출하라! (2025.01.06 ~ 2025.02.28)</div>
 </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
