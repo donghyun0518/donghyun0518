@@ -73,7 +73,7 @@
     ☑️ SPI지수를 활용한 가뭄 예측 모델 개발<br>
     ☑️ 빈집과 전통시장을 활용한 지역 활성화 방안 제시<br>
     ☑️ COVID-19 팬데믹 전후 미국 메디케어 의료 서비스 변화 양상 분석<br>
-    ☑️ 이커머스 고객 세분화 분석 - 군집 분석과 RFMV를 이용한 초세분화 마케팅 전략
+    ☑️ 이커머스 고객 세분화 분석 - 군집 분석과 RFMV를 이용한 초세분화 마케팅 전략<br>
     <a href="https://github.com/donghyun0518/dacon-cvrp-optimization/blob/main/README.md" target="_blank" style="text-decoration: none; color: #c9d1d9;">
         ☑️ [DACON][🏆Private 9위🏆]선물 배송 경로 최적화 경진대회:산타와 루돌프의 워라벨 사수작전
     </a><br>
