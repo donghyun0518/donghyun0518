@@ -30,6 +30,20 @@
     <div style="margin-bottom: 8px;">✔ [DACON][🏆Private 9위🏆]선물 배송 경로 최적화 경진대회:산타와 루돌프의 워라벨 사수작전 (2024.12.03 ~ 2025.01.31)</div>
 </div>
     <div style="text-align: left;">
+## 📘 Projects
+<div style="text-align: left; font-size: 14px; color: #c9d1d9; font-weight: 500;">
+    <a href="https://github.com/donghyun0518/final-project-endoscope/blob/main/README.md" target="_blank" style="text-decoration: none; color: #c9d1d9;">
+        ☑️ 위/대장 내시경 실시간 병변 탐지 모델 개발
+    </a><br>
+    <a href="https://github.com/donghyun0518/dacon-cvrp-optimization/blob/main/README.md" target="_blank" style="text-decoration: none; color: #c9d1d9;">
+        ☑️ [DACON][🏆Private 9위🏆]선물 배송 경로 최적화 경진대회:산타와 루돌프의 워라벨 사수작전
+    </a><br>
+    ☑️ 세종시 공공 전기자전거 도입을 위한 거치대 최적 입지 선정<br>
+    ☑️ SPI지수를 활용한 가뭄 예측 모델 개발<br>
+    ☑️ 빈집과 전통시장을 활용한 지역 활성화 방안 제시<br>
+    ☑️ COVID-19 팬데믹 전후 미국 메디케어 의료 서비스 변화 양상 분석<br>
+    ☑️ 이커머스 고객 세분화 분석 - 군집 분석과 RFMV를 이용한 초세분화 마케팅 전략<br>
+</div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> 
           <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -64,20 +78,7 @@
     <div style="text-align: left;">  </div> 
     </div>
 
-## 📘 Projects
-<div style="text-align: left; font-size: 14px; color: #c9d1d9; font-weight: 500;">
-    <a href="https://github.com/donghyun0518/final-project-endoscope/blob/main/README.md" target="_blank" style="text-decoration: none; color: #c9d1d9;">
-        ☑️ 위/대장 내시경 실시간 병변 탐지 모델 개발
-    </a><br>
-    <a href="https://github.com/donghyun0518/dacon-cvrp-optimization/blob/main/README.md" target="_blank" style="text-decoration: none; color: #c9d1d9;">
-        ☑️ [DACON][🏆Private 9위🏆]선물 배송 경로 최적화 경진대회:산타와 루돌프의 워라벨 사수작전
-    </a><br>
-    ☑️ 세종시 공공 전기자전거 도입을 위한 거치대 최적 입지 선정<br>
-    ☑️ SPI지수를 활용한 가뭄 예측 모델 개발<br>
-    ☑️ 빈집과 전통시장을 활용한 지역 활성화 방안 제시<br>
-    ☑️ COVID-19 팬데믹 전후 미국 메디케어 의료 서비스 변화 양상 분석<br>
-    ☑️ 이커머스 고객 세분화 분석 - 군집 분석과 RFMV를 이용한 초세분화 마케팅 전략<br>
-</div>
+
 
 
 
