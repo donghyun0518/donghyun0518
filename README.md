@@ -30,7 +30,8 @@
     <div style="margin-bottom: 8px;">✔ [DACON][🏆Private 9위🏆]선물 배송 경로 최적화 경진대회:산타와 루돌프의 워라벨 사수작전 (2024.12.03 ~ 2025.01.31)</div>
 </div>
     <div style="text-align: left;">
-## 📘 Projects
+        
+ ## 📘 Projects
 <div style="text-align: left; font-size: 14px; color: #c9d1d9; font-weight: 500;">
     <a href="https://github.com/donghyun0518/final-project-endoscope/blob/main/README.md" target="_blank" style="text-decoration: none; color: #c9d1d9;">
         ☑️ 위/대장 내시경 실시간 병변 탐지 모델 개발
