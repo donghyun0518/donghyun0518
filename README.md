@@ -39,8 +39,7 @@
     <a href="https://github.com/donghyun0518/dacon-cvrp-optimization/blob/main/README.md" target="_blank" style="text-decoration: none; color: #c9d1d9;">
         ☑️ [DACON][🏆Private 9위🏆]선물 배송 경로 최적화 경진대회:산타와 루돌프의 워라벨 사수작전
     </a><br>
-    <br>
-    <a href="https://github.com/donghyun0518/sejong-bigdata-mclp-optics/main/README.md" target="_blank" style="text-decoration: none; color: #c9d1d9;">
+    <a href="https://github.com/donghyun0518/sejong-bigdata-mclp-optics/blob/main/README.md" target="_blank" style="text-decoration: none; color: #c9d1d9;">
         ☑️ 세종시 공공 전기자전거 도입을 위한 거치대 최적 입지 선정
     </a><br>
     ☑️ SPI지수를 활용한 가뭄 예측 모델 개발<br>
