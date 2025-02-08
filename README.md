@@ -53,7 +53,7 @@
     <div style="margin: ; text-align: left;" "text-align: left;"> 
           <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
           <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
-          <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=rshiny&logoColor=white">
+          <img src="https://img.shields.io/badge/Rshiny-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
           <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
           <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
           <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
