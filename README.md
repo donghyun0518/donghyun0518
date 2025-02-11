@@ -45,7 +45,9 @@
     <a href="https://github.com/donghyun0518/K-water-bigdata/blob/main/README.md" target="_blank" style="text-decoration: none; color: #c9d1d9;">
         ☑️ SPI지수를 활용한 가뭄 예측 모델 개발
     </a><br>
-    ☑️ 빈집과 전통시장을 활용한 지역 활성화 방안 제시<br>
+    <a href="https://github.com/donghyun0518/bigconstest/blob/main/README.md" target="_blank" style="text-decoration: none; color: #c9d1d9;">
+        ☑️ 빈집과 전통시장을 활용한 지역 활성화 방안 제시
+    </a><br>
     ☑️ COVID-19 팬데믹 전후 미국 메디케어 의료 서비스 변화 양상 분석<br>
     <a href="https://github.com/donghyun0518/marketing-project/blob/main/README.md" target="_blank" style="text-decoration: none; color: #c9d1d9;">
         ☑️ 이커머스 고객 세분화 분석 - 군집 분석과 RFMV를 이용한 초세분화 마케팅 전략
