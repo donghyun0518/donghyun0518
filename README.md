@@ -27,7 +27,7 @@
     <div style="margin-bottom: 8px;">✔ 제 5회 세종특별자치시 빅데이터 분석 아이디어 공모전 (2024.08.09 ~ 2024.09.30) - 본선 진출</div>
     <div style="margin-bottom: 8px;">✔ 2024 AI.데이터 분석활용 빅콘테스트(AI 데이터 경진대회) (2024.09 ~ 2024.12) - 본선 진출</div>
     <div style="margin-bottom: 8px;">✔ 한국 소프트웨어 산업 협회 경진대회 (2024.12.13)</div>
-    <div style="margin-bottom: 8px;">✔ [DACON][🏆Private 9위🏆]선물 배송 경로 최적화 경진대회:산타와 루돌프의 워라벨 사수작전 (2024.12.03 ~ 2025.01.31)</div>
+    <div style="margin-bottom: 8px;">✔ [DACON][🏆Private 7위🏆]선물 배송 경로 최적화 경진대회:산타와 루돌프의 워라벨 사수작전 (2024.12.03 ~ 2025.01.31)</div>
 </div>
     <div style="text-align: left;">
         
@@ -37,7 +37,7 @@
         ☑️ 위/대장 내시경 실시간 병변 탐지 모델 개발
     </a><br>
     <a href="https://github.com/donghyun0518/dacon-cvrp-optimization/blob/main/README.md" target="_blank" style="text-decoration: none; color: #c9d1d9;">
-        ☑️ [DACON][🏆Private 9위🏆]선물 배송 경로 최적화 경진대회:산타와 루돌프의 워라벨 사수작전
+        ☑️ [DACON][🏆Private 7위🏆]선물 배송 경로 최적화 경진대회:산타와 루돌프의 워라벨 사수작전
     </a><br>
     <a href="https://github.com/donghyun0518/sejong-bigdata-mclp-optics/blob/main/README.md" target="_blank" style="text-decoration: none; color: #c9d1d9;">
         ☑️ 세종시 공공 전기자전거 도입을 위한 거치대 최적 입지 선정
