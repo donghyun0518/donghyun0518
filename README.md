@@ -18,7 +18,6 @@
     <div style="margin-bottom: 8px;">✔ SQL 개발자(SQLD) (2024.12)</div>
     <div style="margin-bottom: 8px;">✔ 빅데이터 분석 기사 (2024.12)</div>
     <div style="margin-bottom: 8px;">✔ 정보처리기사 필기 합격</div>
-    <div style="margin-bottom: 8px;">✔ 유통관리사 2급 (2023.09)</div>
 </div>
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📑 Activity </h2>
