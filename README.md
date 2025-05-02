@@ -27,6 +27,7 @@
     <div style="margin-bottom: 8px;">✔ 2024 AI.데이터 분석활용 빅콘테스트(AI 데이터 경진대회) (2024.09 ~ 2024.12) - 본선 진출</div>
     <div style="margin-bottom: 8px;">✔ 한국 소프트웨어 산업 협회 경진대회 (2024.12.13)</div>
     <div style="margin-bottom: 8px;">✔ [DACON][🏆Private 7위🏆]선물 배송 경로 최적화 경진대회:산타와 루돌프의 워라벨 사수작전 (2024.12.03 ~ 2025.01.31)</div>
+    <div style="margin-bottom: 8px;">✔ [DACON][🏆Private 18위🏆]이미지 분류 해커톤: 데이터 속 아이콘의 종류를 맞혀라! (2025.03.04 ~ 2025.04.30)</div>
 </div>
     <div style="text-align: left;">
         
@@ -51,6 +52,9 @@
     <a href="https://github.com/donghyun0518/marketing-project/blob/main/README.md" target="_blank" style="text-decoration: none; color: #c9d1d9;">
         ☑️ 이커머스 고객 세분화 분석 - 군집 분석과 RFMV를 이용한 초세분화 마케팅 전략
     </a><br>
+    ☑️ [DACON][🏆Private 18위🏆]이미지 분류 해커톤: 데이터 속 아이콘의 종류를 맞혀라!
+    </a><br>
+    <a href="https://github.com/donghyun0518/sejong-bigdata-mclp-optics/blob/main/README.md" target="_blank" style="text-decoration: none; color: #c9d1d9;">
 </div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> 
