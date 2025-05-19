@@ -27,7 +27,7 @@
     <div style="margin-bottom: 8px;">✔ 2024 AI.데이터 분석활용 빅콘테스트(AI 데이터 경진대회) (2024.09 ~ 2024.12) - 본선 진출</div>
     <div style="margin-bottom: 8px;">✔ 한국 소프트웨어 산업 협회 경진대회 (2024.12.13)</div>
     <div style="margin-bottom: 8px;">✔ [DACON][🏆Private 7위🏆]선물 배송 경로 최적화 경진대회:산타와 루돌프의 워라벨 사수작전 (2024.12.03 ~ 2025.01.31)</div>
-    <div style="margin-bottom: 8px;">✔ [DACON][🏆Private 18위🏆]이미지 분류 해커톤: 데이터 속 아이콘의 종류를 맞혀라! (2025.03.04 ~ 2025.04.30)</div>
+    <div style="margin-bottom: 8px;">✔ [DACON][🏆Private 18위🏆][Awards 3위]이미지 분류 해커톤: 데이터 속 아이콘의 종류를 맞혀라! (2025.03.04 ~ 2025.04.30)</div>
 </div>
     <div style="text-align: left;">
         
