@@ -52,7 +52,7 @@
         ☑️ 이커머스 고객 세분화 분석 - 군집 분석과 RFMV를 이용한 초세분화 마케팅 전략
     </a><br>
     <a href="https://github.com/donghyun0518/dacon-imgclassification-densenet201/blob/main/README.md" target="_blank" style="text-decoration: none; color: #c9d1d9;">
-        ☑️ [DACON][🏆Private 18위🏆]이미지 분류 해커톤: 데이터 속 아이콘의 종류를 맞혀라!
+        ☑️ [DACON][🏆Private 18위🏆][Awards 3위]이미지 분류 해커톤: 데이터 속 아이콘의 종류를 맞혀라!
     </a><br>
 </div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
