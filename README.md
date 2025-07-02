@@ -28,6 +28,7 @@
     <div style="margin-bottom: 8px;">✔ 한국 소프트웨어 산업 협회 경진대회 (2024.12.13)</div>
     <div style="margin-bottom: 8px;">✔ [DACON][🏆Private 7위🏆]선물 배송 경로 최적화 경진대회:산타와 루돌프의 워라벨 사수작전 (2024.12.03 ~ 2025.01.31)</div>
     <div style="margin-bottom: 8px;">✔ [DACON][🏆Private 18위🏆][Awards 3위]이미지 분류 해커톤: 데이터 속 아이콘의 종류를 맞혀라! (2025.03.04 ~ 2025.04.30)</div>
+    <div style="margin-bottom: 8px;">✔ [DACON][🏆Private 36위🏆]HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회 (2025.05.19 ~ 2025.06.16)</div>
 </div>
     <div style="text-align: left;">
         
@@ -53,6 +54,9 @@
     </a><br>
     <a href="https://github.com/donghyun0518/dacon-imgclassification-densenet201/blob/main/README.md" target="_blank" style="text-decoration: none; color: #c9d1d9;">
         ☑️ [DACON][🏆Private 18위🏆][Awards 3위]이미지 분류 해커톤: 데이터 속 아이콘의 종류를 맞혀라!
+    </a><br>
+    <a href="https://github.com/donghyun0518/dacon-imgclassification-densenet201/blob/main/README.md" target="_blank" style="text-decoration: none; color: #c9d1d9;">
+        ☑️ [DACON][🏆Private 36위🏆]HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회
     </a><br>
 </div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
