@@ -59,7 +59,7 @@
     <a href="https://github.com/donghyun0518/dacon-carclassification-convnextv2" target="_blank" style="text-decoration: none; color: #c9d1d9;">
         ☑️ [DACON][🏆Private 36위🏆]HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회
     </a><br>
-    <a href="https://github.com/donghyun0518/dacon-imgclassification-densenet201/blob/main/README.md" target="_blank" style="text-decoration: none; color: #c9d1d9;">
+    <a href="https://github.com/donghyun0518/dacon-power-consumption-xgboost-catboost-lightgbm" target="_blank" style="text-decoration: none; color: #c9d1d9;">
         ☑️ [DACON][🏆Private 18위🏆]2025 전력사용량 예측 AI 경진대회
     </a><br>
 </div>
