@@ -62,7 +62,7 @@
     <a href="https://github.com/donghyun0518/dacon-power-consumption-xgboost-catboost-lightgbm" target="_blank" style="text-decoration: none; color: #c9d1d9;">
         ☑️ [DACON][🏆Private 18위🏆]2025 전력사용량 예측 AI 경진대회
     </a><br>
-    <a href="https://github.com/donghyun0518/dacon-power-consumption-xgboost-catboost-lightgbm" target="_blank" style="text-decoration: none; color: #c9d1d9;">
+    <a href="https://github.com/donghyun0518/lawkeepr-rag-ai-chatbot-project" target="_blank" style="text-decoration: none; color: #c9d1d9;">
         ☑️ LAWKEEPER-AI 법률 상담 챗봇 시스템
     </a><br>
 </div>
