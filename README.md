@@ -30,6 +30,7 @@
     <div style="margin-bottom: 8px;">✔ [DACON][🏆Private 18위🏆][Awards 3위]이미지 분류 해커톤: 데이터 속 아이콘의 종류를 맞혀라! (2025.03.04 ~ 2025.04.30)</div>
     <div style="margin-bottom: 8px;">✔ [DACON][🏆Private 36위🏆]HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회 (2025.05.19 ~ 2025.06.16)</div>
     <div style="margin-bottom: 8px;">✔ [DACON][🏆Private 18위🏆]2025 전력사용량 예측 AI 경진대회 (2025.07.14 ~ 2025.08.25)</div>
+    <div style="margin-bottom: 8px;">✔ [DACON][🏆Private 50위🏆]스마트 해운물류 x AI 미션 챌린지 : 스마트 항만 AGV 경로 최적화 경진대회 (2025.09.08 ~ 2025.10.02)</div>
 </div>
     <div style="text-align: left;">
         
