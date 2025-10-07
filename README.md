@@ -66,6 +66,9 @@
     <a href="https://github.com/donghyun0518/lawkeepr-rag-ai-chatbot-project" target="_blank" style="text-decoration: none; color: #c9d1d9;">
         ☑️ LAWKEEPER-AI 법률 상담 챗봇 시스템
     </a><br>
+    <a href="https://github.com/donghyun0518/dacon-power-consumption-xgboost-catboost-lightgbm" target="_blank" style="text-decoration: none; color: #c9d1d9;">
+        ☑️ [DACON][🏆Private 50위🏆]스마트 해운물류 x AI 미션 챌린지 : 스마트 항만 AGV 경로 최적화 경진대회
+    </a><br>
 </div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> 
